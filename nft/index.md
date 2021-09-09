@@ -3,6 +3,7 @@
 ## 交易平台
 
 ### opensea
+![](https://thebridge.jp/wp-content/uploads/2021/07/opensea-3.jpg)
 
 > 可以定时发售、买卖、拍卖NFT，没有Drop的概念，看起来人人都可以Drop。
 > 市场支持的的NFT种类比较多样化，有音乐、图片、虚拟现实和游戏卡片。
