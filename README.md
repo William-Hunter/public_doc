@@ -2,5 +2,5 @@
 my public document.
 
 
-[NFT文档](./nft/NFT总览.html)
+[NFT文档](./nft/index.md)
 
