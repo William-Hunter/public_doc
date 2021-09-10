@@ -2,6 +2,17 @@
 
 ## 交易平台
 
+###  NFT China
+![图片名字](图片链接)
+>
+>
+>
+> __技术信息：__   
+> __进入门槛：__   
+
+网址:[]()
+
+
 ### OpenSea
 ![](https://thebridge.jp/wp-content/uploads/2021/07/opensea-3.jpg)
 
@@ -67,6 +78,43 @@
 > __进入门槛：__   作为交易者，你有一个MetaMask钱包就行，但是要在这个平台上注册成为一个艺术家的话，官方称现在接收到了全世界大量的注册申请，暂时关闭了申请通道，等过一段时间，处理完积压之后会重新开放。这里是[官方推特](https://twitter.com/knownorigin.io)，可以追踪他们开通状况。
 
 网址:[knownorigin.io](https://knownorigin.io/)
+
+
+### Nifty Gateway
+![图片名字](https://ph-files.imgix.net/6947c3c6-52b2-4ff1-a41a-67cacfd021af.png?auto=format&auto=compress&codec=mozjpeg&cs=strip)
+>买卖以及发售NFT，这个网站相当奇葩，它居然使用信用卡支付去买卖作品的。
+> __技术信息：__   官网和FAQ上没有查到任何区块链技术信息，但是看到有合约地址，艺术品的流通应该使用到了区块链技术，但是作为用户，应该没有自己的卡包地址，感觉不安全、没有控制权。
+> __进入门槛：__   成为交易者，邮箱注册，绑定信用卡即可。
+> 想要成为艺术家，官方西药你提供以下信息供审核：
+>*  你的全名
+>* 社交平台信息
+>* 艺术作品集的网站链接
+>* 关于你的远期近期职业规划
+>* 擅长的领域
+>* 提供一个自我介绍的短片，必须是youtube链接
+
+网址:[niftygateway.com](https://niftygateway.com)
+
+### NBA TopShot
+![图片名字](https://miro.medium.com/freeze/max/1200/1*E_DQroeUlolcubWqQPZGgg.gif)
+>NBA 主题的NFT发售买卖平台，进球的视频片段居然都做成NFT了，但是这个东西和我们的从事领域不相关，如果将来有需求，再进行信息挖掘。
+
+网址:[nbatopshot.com](https://nbatopshot.com/)
+
+
+
+### Makers
+![图片名字](图片链接)
+>
+>
+>
+> __技术信息：__   
+> __进入门槛：__   
+
+网址:[]()
+
+
+
 
 
 
