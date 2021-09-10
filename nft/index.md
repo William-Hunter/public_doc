@@ -160,7 +160,7 @@
 >CryptoPunks 是 24x24 像素的艺术图像，通过算法生成。大多数都是看起来很笨拙的男孩和女孩，但也有一些比较罕见的类型：猿、僵尸，甚至是奇怪的外星人。            
 >CryptoPunks 是 10,000 个唯一生成的字符。没有两个是完全相同的，并且每个都可以由以太坊区块链上的一个人正式拥有。最初，任何拥有以太坊钱包的人都可以免费领取它们，但很快就全部 10,000 个领取了。现在，它们必须通过嵌入在区块链中的市场从某人那里购买。通过这个市场，您可以购买、竞标和出售朋克。下面，您将找到有关市场上每个 Punk 状态的信息。蓝色背景的朋克不出售，目前没有出价。拥有红色背景的朋克可以由其所有者出售。最后，紫色背景的朋克对他们有积极的出价。            
 > __技术信息：__   基于以太坊区块链技术，所有权存储在以太坊网络上，支持`ERC-721`网络标准，可以连接MetaMask钱包，使用以太币ETH交易。            
-> __进入门槛：__     有自己的MetaMask钱包即可，连接上，就自动在他们网站上开户了。            
+> __进入门槛：__     有自己的MetaMask钱包即可，连接上，就自动在他们网站上开户了。    
 
 网址:[larvalabs_cryptopunks](https://www.larvalabs.com/cryptopunks)
 
@@ -169,11 +169,11 @@
 
 ### Meebits
 ![图片名字](https://meebits.larvalabs.com/public/images/homepage/group.jpg)
->和上一个是一家的，都是Larvalabs团队，但这个是3D版的，甚至还有[建模动画](https://meebits.larvalabs.com/public/images/homepage/dancer2.mp4)
+>和上一个是一家的，都是Larvalabs团队，但这个是3D版的，甚至还有[建模动画](https://meebits.larvalabs.com/public/images/homepage/dancer2.mp4)         
 >
->此平台不收取交易费用
-> __技术信息：__   
-> __进入门槛：__   
+>此平台不收取交易费用         
+> __技术信息：__         同上
+> __进入门槛：__         同上     
 
 网址:[larvalabs_meebits](https://meebits.larvalabs.com/)
 
@@ -182,9 +182,9 @@
 
 ### HashMasks
 ![图片名字](https://p6.itc.cn/images01/20210202/665ab01d615040bcb028df79fdd54c2a.png)
->类似于加密猫。根据算法随机生成戴着面具的图片，全平台能够生成的种类有一个上限，这确保了NFT的稀缺性。
-> __技术信息：__   基于以太坊网络，使用ETH交易
-> __进入门槛：__   MetaMask钱包开户
+>类似于加密猫。根据算法随机生成戴着面具的图片，全平台能够生成的种类有一个上限，这确保了NFT的稀缺性。                  
+> __技术信息：__   基于以太坊网络，使用ETH交易             
+> __进入门槛：__   MetaMask钱包开户            
 
 网址:[thehashmasks.com](https://www.thehashmasks.com/)
 
@@ -193,10 +193,10 @@
 
 ### Axie Infinity
 ![图片名字](https://bittimes.net/wp-content/uploads/2020/11/Axie-Infinity-AXS-TOP.jpg)
->类似于加密猫，随机生成属于自己的小怪物，可以战斗赢得Token，然后用这个token去购买别人的小怪物，或出售自己的小怪物赚取Token
-![图片名字](https://cdn.decrypt.co/resize/1400/wp-content/uploads/2021/07/axie-marketplace.png)
-> __技术信息：__    基于以太坊网络，`AxsToken`可以用以太币`ETH`互相兑换。
-> __进入门槛：__     需要一个`Ronin`钱包连接开账户
+>类似于加密猫，随机生成属于自己的小怪物，可以战斗赢得Token，然后用这个token去购买别人的小怪物，或出售自己的小怪物赚取Token                   
+![图片名字](https://cdn.decrypt.co/resize/1400/wp-content/uploads/2021/07/axie-marketplace.png)                      
+> __技术信息：__    基于以太坊网络，`AxsToken`可以用以太币`ETH`互相兑换。                   
+> __进入门槛：__     需要一个`Ronin`钱包连接开账户                        
 
 网址:[axieinfinity.com](https://axieinfinity.com/)
 
