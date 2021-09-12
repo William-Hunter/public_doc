@@ -48,6 +48,39 @@ _审核工作将在两个工作日内完成，收取审核费是为了保障平�
 
 网址:[opensea.io](https://opensea.io/)
 
+<img src="https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg" style="width:14px height:14px;">
+
+优秀的NFT作品集
+|集合名|金额ETH |   底价  | 拥有者数量 | 资产个数|
+|---|---|   ---  | --- | --- |
+|    Loot (for Adventurers)   |   14,060.82   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+|    1    |    2   |  3   |   4    |   5   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Rarible
 ![enter image description here](https://cwstatic.nyc3.digitaloceanspaces.com/2020/03/31/images/2/Rarible%20Landing%20page.png)
