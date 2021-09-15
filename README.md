@@ -4,3 +4,6 @@ my public document.
 
 [NFT文档](./nft/index.md)
 
+[小作文](./article/index.md)
+
+
