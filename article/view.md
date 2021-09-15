@@ -84,6 +84,7 @@ Let me introduce some famous collections.
 * jiahu lake bone Flute
 
 ![](http://www.chnmus.net/sitesources/hnsbwy/upload/202011/20201102114538862.jpg)
+
 This is a flute from ancient times.
 It was unearthed from the Neolithic site of Wuyang Jiahu Lake in the upper reaches of the Huai River.
 Made from the hollow ulna of cranes,
@@ -95,6 +96,7 @@ and its unearth has rewritten the origin and history of Chinese music.
 * Lotus and Crane Square Pot
 
 ![](http://www.chnmus.net/sitesources/hnsbwy/upload/201810/20181026163747369.jpg)
+
 The pot is a kind of bronze wine utensil, and also one of the important types of bronze ritual vessels.
 The ancients used this vessel to offer sacrifices to gods and ancestors and feast on guests.
 As a kind of bronze ware with great vitality in the Bronze Age,
@@ -106,6 +108,7 @@ and it is also one of the earliest collections of the Henan Provincial Museum, t
 * Snake head jade ornament
 
 ![](http://www.chnmus.net/sitesources/20200420172449872.jpg)
+
 The jade ornament with human head and snake body is the first to be seen in jade artifacts unearthed so far,
 and the image carved on it is probably related to the legendary ancestor Fuxi and Nuwa.
 There are two jade ornaments in the shape of a flat oval ring, the same size and thickness.
