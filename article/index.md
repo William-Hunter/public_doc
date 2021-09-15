@@ -79,9 +79,9 @@ In addition to its collection of human history the museum is also home to many r
 Henan Museum's present building, which opened in 1997, occupies an area of more than 100,000 square feet,
 with a total floor space of 78,000 square feet.
 
-河南博物院的管理结构由政府主导的，一共有12个部门，由于门票是免费的，所以为了维持博物馆的运作，他们组织了一些文艺表演来创造收入。
-The management structure of Henan Museum is dominated by the government. There are a total of 12 departments. 
-Since tickets are free, in order to maintain the operation of the museum, 
+河南博物院的管理结构由政府主导的，一共有12个部门，博物馆对所有人免费开放，门票是免费的，所以为了维持博物馆的运作，他们组织了一些文艺表演来创造收入。
+The management structure of the Henan Museum is dominated by the government. There are 12 departments in total. 
+The museum is free to everyone, and tickets are free. Therefore, in order to maintain the operation of the museum, 
 they organized some cultural performances to generate income.
 
 ![](https://p9.itc.cn/images01/20210827/557fe247a02f446188a39a431b1cbdd4.jpeg)
@@ -107,7 +107,47 @@ The citizens rescued the trapped people during power outages and floods and gene
 
 >* 藏品（古竹、玉、云盒）
 
-馆藏历代文物13万余件。
+馆藏历代文物13万余件。让我来给你介绍一些著名的藏品。
 It has a collection of more than 130,000 pieces of cultural relics through the ages.
+Let me introduce some famous collections.
 
-![](https://inews.gtimg.com/newsapp_bt/0/13532211296/1000)
+* 贾湖骨笛
+* jiahu lake bone Flute
+
+![](http://www.chnmus.net/sitesources/hnsbwy/upload/202011/20201102114538862.jpg)
+这是一根来自于远古的笛子，它出土于淮河上流流域的舞阳贾湖新石器时代遗址中。以鹤类飞禽中空的尺骨制成，
+可以演奏出近似七声音节的乐曲，它的出土，改写了中国音乐的起源和历史。
+This is a flute from ancient times. 
+It was unearthed from the Neolithic site of Wuyang Jiahu Lake in the upper reaches of the Huai River. 
+Made from the hollow ulna of cranes,
+You can play music similar to the seven-sound festival, 
+and its unearth has rewritten the origin and history of Chinese music.
+
+
+* 莲鹤方壶
+* Lotus and Crane Square Pot
+
+![](http://www.chnmus.net/sitesources/hnsbwy/upload/201810/20181026163747369.jpg)
+壶是青铜酒具的一种，也是青铜礼器的重要种类之一，古人以此器祭神祀祖，飨宴宾客。
+作为青铜时代极具生命力的一种铜器类别，铜壶的器形不断变化和发展，
+而莲鹤方壶则是青铜时代承上启下的绝代珍品，也是河南博物院前身河南省博物馆最早的藏品之一。
+The pot is a kind of bronze wine utensil, and also one of the important types of bronze ritual vessels.
+The ancients used this vessel to offer sacrifices to gods and ancestors and feast on guests.
+As a kind of bronze ware with great vitality in the Bronze Age,
+the shape of the bronze kettle is constantly changing and developing.
+The lotus and crane square pot is a peerless treasure from the Bronze Age,
+and it is also one of the earliest collections of the Henan Provincial Museum, the predecessor of the Henan Museum.
+
+* 人首蛇身玉饰
+* Snake head jade ornament
+
+![](http://www.chnmus.net/sitesources/20200420172449872.jpg)
+人首蛇身玉饰在目前出土的玉器中首次见到，其上所雕琢的形象很可能与传说中人类始祖伏羲、女娲有关。
+玉饰共两件，呈扁平椭圆环状，大小、厚薄相同。两件玉饰皆作侧身人形，正反两面纹饰略有差别，耳佩圆环者为男性，另一件为女性。 
+The jade ornament with human head and snake body is the first to be seen in jade artifacts unearthed so far, 
+and the image carved on it is probably related to the legendary ancestor Fuxi and Nuwa.
+There are two jade ornaments in the shape of a flat oval ring, the same size and thickness. 
+Both jade ornaments are made of sideways human figures, with slightly different patterns on the front and back. 
+The one with the ring on the ear is male, and the other is female.
+
+

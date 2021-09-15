@@ -21,7 +21,6 @@ it moved to its current location.
 In 1991 that museum was remodeled and in 1999 the official reopening was held.
 
 
-
 ![](http://5b0988e595225.cdn.sohucs.com/images/20181006/7a2c584f2d984129b40d60b39ce20766.jpg)
 
 
@@ -57,8 +56,8 @@ Henan Museum's present building, which opened in 1997, occupies an area of more 
 with a total floor space of 78,000 square feet.
 
 
-The management structure of Henan Museum is dominated by the government. There are a total of 12 departments.
-Since tickets are free, in order to maintain the operation of the museum,
+The management structure of the Henan Museum is dominated by the government. There are 12 departments in total.
+The museum is free to everyone, and tickets are free. Therefore, in order to maintain the operation of the museum,
 they organized some cultural performances to generate income.
 
 ![](https://p9.itc.cn/images01/20210827/557fe247a02f446188a39a431b1cbdd4.jpeg)
@@ -66,7 +65,6 @@ they organized some cultural performances to generate income.
 ![](https://www.popo8.com/host/data/202102/27/23/p1614456522_91307.jpg_b.jpg)
 
 ![](https://www.chinadiscovery.com/assets/images/travel-guide/dengfeng/shaolin-temple/shaolin-kungfu-performance.jpg)
-
 
 
 
@@ -79,7 +77,39 @@ The citizens rescued the trapped people during power outages and floods and gene
 
 -----------------------------------------------------------------------------
 
-
 It has a collection of more than 130,000 pieces of cultural relics through the ages.
+Let me introduce some famous collections.
 
-![](https://inews.gtimg.com/newsapp_bt/0/13532211296/1000)
+
+* jiahu lake bone Flute
+
+![](http://www.chnmus.net/sitesources/hnsbwy/upload/202011/20201102114538862.jpg)
+This is a flute from ancient times.
+It was unearthed from the Neolithic site of Wuyang Jiahu Lake in the upper reaches of the Huai River.
+Made from the hollow ulna of cranes,
+You can play music similar to the seven-sound festival,
+and its unearth has rewritten the origin and history of Chinese music.
+
+
+
+* Lotus and Crane Square Pot
+
+![](http://www.chnmus.net/sitesources/hnsbwy/upload/201810/20181026163747369.jpg)
+The pot is a kind of bronze wine utensil, and also one of the important types of bronze ritual vessels.
+The ancients used this vessel to offer sacrifices to gods and ancestors and feast on guests.
+As a kind of bronze ware with great vitality in the Bronze Age,
+the shape of the bronze kettle is constantly changing and developing.
+The lotus and crane square pot is a peerless treasure from the Bronze Age,
+and it is also one of the earliest collections of the Henan Provincial Museum, the predecessor of the Henan Museum.
+
+
+* Snake head jade ornament
+
+![](http://www.chnmus.net/sitesources/20200420172449872.jpg)
+The jade ornament with human head and snake body is the first to be seen in jade artifacts unearthed so far,
+and the image carved on it is probably related to the legendary ancestor Fuxi and Nuwa.
+There are two jade ornaments in the shape of a flat oval ring, the same size and thickness.
+Both jade ornaments are made of sideways human figures, with slightly different patterns on the front and back.
+The one with the ring on the ear is male, and the other is female.
+
+
