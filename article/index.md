@@ -79,7 +79,14 @@ In addition to its collection of human history the museum is also home to many r
 Henan Museum's present building, which opened in 1997, occupies an area of more than 100,000 square feet,
 with a total floor space of 78,000 square feet.
 
-河南博物院的管理结构由政府主导的，一共有12个部门，博物馆对所有人免费开放，门票是免费的，所以为了维持博物馆的运作，他们组织了一些文艺表演来创造收入。
+河南博物院的管理结构由政府主导的，博物馆对所有人免费开放，由于门票是免费的，所以为了维持博物馆的运作，
+他们组织了一些文艺表演来创造收入。博物馆作为事业单位，更多时候，博物馆收入主要来源于政府财政拨款。
+The management structure of the Henan Museum is dominated by the government. 
+The museum is open to everyone free of charge. Since tickets are free, in order to maintain the operation of the museum,
+They organized some cultural performances to generate income. 
+As a public institution, museums, more often, the revenue of museums mainly comes from government financial appropriations.
+
+
 The management structure of the Henan Museum is dominated by the government. There are 12 departments in total. 
 The museum is free to everyone, and tickets are free. Therefore, in order to maintain the operation of the museum, 
 they organized some cultural performances to generate income.
@@ -120,8 +127,7 @@ Let me introduce some famous collections.
 可以演奏出近似七声音节的乐曲，它的出土，改写了中国音乐的起源和历史。
 This is a flute from ancient times. 
 It was unearthed from the Neolithic site of Wuyang Jiahu Lake in the upper reaches of the Huai River. 
-Made from the hollow ulna of cranes,
-You can play music similar to the seven-sound festival, 
+Made from the hollow ulna of cranes,You can play music similar to the seven-sound festival, 
 and its unearth has rewritten the origin and history of Chinese music.
 
 
@@ -150,7 +156,26 @@ and it is also one of the earliest collections of the Henan Provincial Museum, t
 The jade ornament with human head and snake body is the first to be seen in jade artifacts unearthed so far, 
 and the image carved on it is probably related to the legendary ancestor Fuxi and Nuwa.
 There are two jade ornaments in the shape of a flat oval ring, the same size and thickness. 
-Both jade ornaments are made of sideways human figures, with slightly different patterns on the front and back. 
+Both jade ornaments are made of sideways human figures, with slightly different patterns on the front and back.
 The one with the ring on the ear is male, and the other is female.
 
 
+* 汝窑天蓝釉刻花鹅颈瓶
+* Ru kiln sky blue glaze carved gooseneck vase
+
+![](http://www.chnmus.net/sitesources/hnsbwy/upload/201910/20191008170016019.jpg)
+
+汝窑釉色时有“天青为贵，粉青为尚，天蓝弥足珍贵”之说。这件天蓝釉刻花鹅颈瓶，口小底大，器身轮廓呈流畅的“S”形曲线。
+釉面光亮，釉层下配以如隐如现的莲花图案，为汝窑传世品中所未见。
+The glaze color of Ru kiln sometimes has the saying that “sky blue is precious, powder blue is still precious,
+ and sky blue is precious”. This sky blue glaze engraved gooseneck vase has a small mouth and a large bottom, 
+ and the body outline is a smooth "S" curve. The glazed surface is bright, 
+ with a faint lotus pattern under the glaze layer, which is unprecedented in Ru kilns.
+
+
+这是关于我的家乡的博物馆的故事，很明显这并不是全部故事，这个博物馆对我最重要的意义在于，我可以触手可及访问历史上的真实物品，
+这启发了我对于祖先文化艺术的好奇，感叹先人的技巧与创造力，他们在贫困和灾难中依然不放弃对于生活的热爱。
+This is a story about a museum in my hometown. Obviously, this is not the whole story. 
+The most important significance of this museum to me is that I can access real objects in history within my fingertips.
+This inspired me to be curious about the culture and art of my ancestors, 
+lamenting the skills and creativity of the ancestors, who still did not give up their love for life despite poverty and disasters.
