@@ -4,6 +4,8 @@ my public document.
 
 [NFT文档](./nft/index.md)
 
-[小作文](./article/henan_museum(zoe zhang).md)
+[河南博物院作文](./HomeWork/henan_museum_zoe_zhang.md)
 
-[valuation](./article/valuation.md)
+[画廊作文](./HomeWork/gallery.md)
+
+[valuation](./HomeWork/valuation.md)
