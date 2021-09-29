@@ -22,11 +22,10 @@ This gallery mainly sells photography and local artists' works. They have close 
 ## Exhibition
 
 
-
 The Mountains & Seas art gallery provides a place for the public to gather, communicate, communicate, learn, and share each other's interests and enthusiasm. The Mountains & Seas Art gallery's Public Projects Department has expanded this platform. Through lectures and forums, art theaters, live performances, workshops, youth art classes, etc. The art gallery becomes an open classroom, an indispensable public space in the city.
 This is not only an exhibition but also a place for presentation and education. They are still doing some cultural and creative derivatives (souvenirs for sale). Because the owner has a very close relationship with collectors and artists, so they don’t have a website. It is through Wechat to post and promote, they believe Wechat will bring them more privacy).
 
-
+The manager of the gallery is a person with an international perspective. He continues to pay attention to various art exhibitions at home and abroad. However, because participating in large-scale exhibitions at this stage can not bring advantages to the community or the gallery, and consumes a large amount of cost and human resources, they choose to maintain a wait-and-see attitude.
 
 
 
@@ -46,6 +45,10 @@ This exhibition will showcase the works of contemporary painter and art educator
 <img src="http://pic.yupoo.com/fotomag/f6662ef7/bd838c04.jpg" width="600px">
 
 A total of 95 works (groups) of 91 Chinese artists are exhibited in this exhibition, covering various forms of media such as paintings, sculptures, installations, videos, and animations. The concept of the exhibition theme "Duration" comes from the French philosopher Bergson, who believes that duration means uninterrupted and eternal continuity, as well as eternal change. Every moment is an absorption of the past, and the endless possibilities of the future are based on the past and the present.
+
+
+
+
 
 
 ## The Future
