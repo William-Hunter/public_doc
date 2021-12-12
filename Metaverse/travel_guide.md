@@ -4,8 +4,8 @@
 
 ### UFO Dcoking Station
 
-<img src="./pics/UFO1.png" alt="" style="width:500px;">
-<img src="./pics/UFO2.png" alt="" style="width:500px;">
+<img src="./pics/UFO1.png" alt="" style="width: 700px;">
+<img src="./pics/UFO2.png" alt="" style="width: 700px;">
 
 [点击进入元宇宙查看](https://www.cryptovoxels.com/play?coords=W@909E,179S,14F)
 
